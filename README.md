@@ -1,10 +1,10 @@
 ### Boas Vindas ao meu perfil 🍒
 
-Meu nome é giovana regina
+Meu nome é gilette 
 
 - estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
-- Ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+- Ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos commuita tristeza.
 
   ### você entrar em contato comigo📧
 
